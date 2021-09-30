@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "five_little_ducks/1.0.0": {
+        "runtime": {
+          "five_little_ducks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "five_little_ducks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\obj\Debug\netcoreapp3.1\five_little_ducks.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\obj\Debug\netcoreapp3.1\five_little_ducks.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\obj\Debug\netcoreapp3.1\five_little_ducks.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\bin\Debug\netcoreapp3.1\five_little_ducks.exe
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\bin\Debug\netcoreapp3.1\five_little_ducks.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\bin\Debug\netcoreapp3.1\five_little_ducks.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\bin\Debug\netcoreapp3.1\five_little_ducks.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\bin\Debug\netcoreapp3.1\five_little_ducks.dll
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\bin\Debug\netcoreapp3.1\five_little_ducks.pdb
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\obj\Debug\netcoreapp3.1\five_little_ducks.dll
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\obj\Debug\netcoreapp3.1\five_little_ducks.pdb
+C:\Users\opilane\source\repos\LOGITpe21\GuessingGameInfininte\five_little_ducks\obj\Debug\netcoreapp3.1\five_little_ducks.genruntimeconfig.cache

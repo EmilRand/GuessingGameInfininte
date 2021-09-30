@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessingGameInfininte", "GuessingGameInfininte\GuessingGameInfininte.csproj", "{DBC46E96-3E8B-4B3A-B136-258DA1B11958}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessingGameTheeTries", "GuessingGameTheeTries\GuessingGameTheeTries.csproj", "{2CDCEEC4-2D64-4807-9B54-6644244B8F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "ForLoops\ForLoops.csproj", "{090B6EE8-05C6-4C26-819A-D16D3EEB0F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToHundred", "OneToHundred\OneToHundred.csproj", "{DB18C025-24FC-4FF0-8932-723F53F96F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HundredToOne", "HundredToOne\HundredToOne.csproj", "{6B67CCC7-26EF-4B73-A716-2485F71F9FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "five_little_ducks", "five_little_ducks\five_little_ducks.csproj", "{1F0E32C2-ED8D-4D7D-BD3B-2A6D70A8ABB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC46E96-3E8B-4B3A-B136-258DA1B11958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC46E96-3E8B-4B3A-B136-258DA1B11958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC46E96-3E8B-4B3A-B136-258DA1B11958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC46E96-3E8B-4B3A-B136-258DA1B11958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDCEEC4-2D64-4807-9B54-6644244B8F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDCEEC4-2D64-4807-9B54-6644244B8F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDCEEC4-2D64-4807-9B54-6644244B8F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDCEEC4-2D64-4807-9B54-6644244B8F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090B6EE8-05C6-4C26-819A-D16D3EEB0F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090B6EE8-05C6-4C26-819A-D16D3EEB0F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090B6EE8-05C6-4C26-819A-D16D3EEB0F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090B6EE8-05C6-4C26-819A-D16D3EEB0F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB18C025-24FC-4FF0-8932-723F53F96F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB18C025-24FC-4FF0-8932-723F53F96F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB18C025-24FC-4FF0-8932-723F53F96F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB18C025-24FC-4FF0-8932-723F53F96F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B67CCC7-26EF-4B73-A716-2485F71F9FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B67CCC7-26EF-4B73-A716-2485F71F9FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B67CCC7-26EF-4B73-A716-2485F71F9FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B67CCC7-26EF-4B73-A716-2485F71F9FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0E32C2-ED8D-4D7D-BD3B-2A6D70A8ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0E32C2-ED8D-4D7D-BD3B-2A6D70A8ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0E32C2-ED8D-4D7D-BD3B-2A6D70A8ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0E32C2-ED8D-4D7D-BD3B-2A6D70A8ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDE818C-895C-4426-8896-DE7A54267FC1}
+	EndGlobalSection
+EndGlobal
